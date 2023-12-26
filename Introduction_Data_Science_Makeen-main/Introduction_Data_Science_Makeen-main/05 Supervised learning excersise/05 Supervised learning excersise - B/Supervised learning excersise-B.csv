@@ -1,0 +1,6 @@
+Credit Score,Income,Loan Amount,Loan Term,Employment Status,Previous Delinquencies,Approved,
+2,720,5000,10000,Short-term,Employed,No,Yes
+3,680,3000,5000,Long-term,Self-employed,No,No
+4,650,2000,2500,Short-term,Unemployed,Yes,No
+5,750,7000,15000,Long-term,Employed,No,Yes
+6,800,10000,20000,Short-term,Self-employed,No,Yes
